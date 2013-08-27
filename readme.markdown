@@ -1,2 +1,3 @@
-scarf-client-ios
-================
+# Scarf for iOS
+
+Coming soon.
